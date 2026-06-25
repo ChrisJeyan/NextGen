@@ -309,10 +309,27 @@ Personalized pathways for:
 
 ---
 
+---
+
 <div align="center">
 
-### Learn • Build • Grow
+## NextGen
 
-Building the future for the next generation.
+**Learn • Build • Grow**
+
+<br>
+
+*"The future is not built by those who wait for opportunities.
+It is built by those who create them."*
+
+<br>
+
+Developed and maintained by **Chris Jeyan**
+
+© 2026 NextGen. All Rights Reserved.
+
+Built with a vision to empower the next generation of innovators, entrepreneurs, creators, and builders.
 
 </div>
+
+---
